@@ -26,7 +26,7 @@
 
 ### Curso - Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional
 
-### 🟩 - Desafio de código - Explorando Operadores e Manipulação de Strings
+### Desafio de código - Explorando Operadores e Manipulação de Strings 🟩
 
 ## Estruturas de Dados e Listas com Python
 
@@ -95,7 +95,9 @@
 ### Desafio de projeto - Criando Uma API Com FastAPI Utilizando TDD
 
 
-## Legenda para STATUS DE PROGRESSO
+## Status de Progresso
+
+* Legenda
 
 🟥 Não iniciado
 
